@@ -1,0 +1,2 @@
+My file has some contents
+Trying to erase these contents using Python codes
